@@ -3,27 +3,27 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6285769727113'] 
+global.owner = ['6285927713672'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['6285769727113']
+global.kontak = ['6285927713672']
 
 //  INFO BOT 
 global.naown = 'FahriXD'
-global.noown = '6285769727113'
+global.noown = '6285927713672'
 global.namebot = 'Alphabot-MD'
 global.nobot = '628893729854'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/fahri_xd'
+global.instagram = 'https://instagram.com/fva12'
 global.github = 'https://github.com/XiaomiBOT'
-global.gc = 'https://chat.whatsapp.com/DNg5cZbOwDxGD6nbpPrza8'
-global.web = 'https://fahri.my.id' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/XiaomiBOT'
+global.gc = 'https://chat.whatsapp.com/IpKFuX1XlQCCZjx4EV61AN'
+global.web = 'https://whatsapp.com/channel/0029Vay2E9z96H4UBX97th0K' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = 'https://saweria.co/faahrixz'
 
 // PAYMANT 
 global.dana = '08893729854'
-global.pulsa = '08893729854'
+global.pulsa = '085927713672'
 global.gopay = '-'
 global.shopay = '-'
 global.ovo = '-'
